@@ -10,4 +10,3 @@ Grande do Norte.
 
 [TCC](https://github.com/FlaviodosSantos/tcc-e_dengue/blob/main/TCC/Informatiza%C3%A7%C3%A3oDaColeta_Santos_2024.pdf) 
 
-#### OBS: o codigo finalizado está na branch feat/boletim
