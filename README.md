@@ -1,4 +1,10 @@
-# TCC 2 - e-lira
+# TCC 2 
 
-App e-lira para TCC 2
+## Sistema e-lira para TCC 2
+
+
+Sistema web desenvolvido em Django que auxilia o Agente de Endemias no Levantamento rápido de indices para o Aedes Aegypt. Trabalho de conclusão de curso apresentado
+ao curso de graduação em Sistemas de Informação, como parte dos requisitos para obtenção do título de Bacharel em Sistemas de Informação da Universidade Federal do Rio
+Grande do Norte.
+
 
