@@ -8,5 +8,5 @@ ao curso de graduação em Sistemas de Informação, como parte dos requisitos p
 Grande do Norte.
 
 
-[TCC](https://github.com/FlaviodosSantos/tcc-e_dengue/blob/main/TCC/Informatiza%C3%A7%C3%A3oDaColeta_Santos_2024.pdf) 
+[TCC](https://github.com/FlaviodosSantos/tcc-e_dengue/blob/main/TCC/Informatiza%C3%A7%C3%A3oDaColeta_Santos_2024.pdf) com screenshots do sistema.
 
